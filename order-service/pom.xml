@@ -9,7 +9,7 @@
         <version>2.4.13-SNAPSHOT</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.yzykov</groupId>
+    <groupId>com.yzykov.pet.store</groupId>
     <artifactId>order-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>order-service</name>
