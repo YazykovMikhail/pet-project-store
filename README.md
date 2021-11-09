@@ -4,3 +4,4 @@
 - Docker
 - SpringBoot, Spring Actuator, 
 - Spring Cloud (Eureka, ConfigServer)
+- RabbitMQ
