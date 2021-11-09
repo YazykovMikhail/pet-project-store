@@ -1,7 +1,7 @@
-package com.yazykov.controller;
+package com.yazykov.pet.product.controller;
 
-import com.yazykov.model.Product;
-import com.yazykov.repository.ProductRepository;
+import com.yazykov.pet.product.model.Product;
+import com.yazykov.pet.product.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
