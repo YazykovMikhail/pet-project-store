@@ -1,4 +1,4 @@
-package com.yazykov.pet.product.model;
+package com.yazykov.pet.store.product.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
