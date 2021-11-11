@@ -11,6 +11,11 @@ import org.springframework.web.bind.annotation.RestController;
 @RefreshScope
 public class TestController {
 
+    //для обновления свойств в конкретном микросервисе
+    //http://host:port/actuator/refresh
+    //Если подключено Cloud.start.bus.amqp то можно обновить сразу все микросервисы
+    //http://host:port/actuator/busrefresh
+
     @Value("${test.name}")
     private String name;
 
