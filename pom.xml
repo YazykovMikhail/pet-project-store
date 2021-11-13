@@ -13,6 +13,7 @@
         <module>discovery-server</module>
         <module>configuration-server</module>
         <module>order-service</module>
+        <module>api-gateway-service</module>
     </modules>
 
 
