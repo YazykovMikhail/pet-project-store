@@ -3,5 +3,5 @@
 - MySql, MongoDB
 - Docker
 - SpringBoot, Spring Actuator, 
-- Spring Cloud (Eureka, ConfigServer, BusAMQP)
+- Spring Cloud (Eureka, ConfigServer, BusAMQP, Gateway)
 
